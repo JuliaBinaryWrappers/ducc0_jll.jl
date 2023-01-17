@@ -1,505 +1,505 @@
 [[ducc0]]
 arch = "aarch64"
-git-tree-sha1 = "d97c92b474e7229941668e553cfdabd80b68962c"
+git-tree-sha1 = "97ccba9fc79867d9a1549f9baa38dde08865f77d"
 lazy = true
 os = "macos"
 
     [[ducc0.download]]
-    sha256 = "c1aad170ae12669bb961728d02ef065d1eb85d9cc43ac9b5b8900e22bb7053a2"
-    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.0+0/ducc0.v0.27.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "71eaf42afc2ea7ab8e86a78f86e40b59d1df60e95fca00f9a0eb6045914e33ba"
+    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.9+0/ducc0.v0.27.9.aarch64-apple-darwin.tar.gz"
 [[ducc0]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "1292a0d19bf5c783165599b517e99aeb87c03947"
+git-tree-sha1 = "e02812a41e617205ab68b36a3c3b45bcbb6543d9"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[ducc0.download]]
-    sha256 = "e3d63bd1fa241618dfcb6e6d698f001a6a55ab1ed967237eb32639bbd0ee74d0"
-    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.0+0/ducc0.v0.27.0.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "f54573081194306f3c6100ab4dbaec14d52b1aee1aad67e8fabe5ab8a7f13a8f"
+    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.9+0/ducc0.v0.27.9.aarch64-linux-gnu-cxx03.tar.gz"
 [[ducc0]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c5d3301559e50fd5eb62ddb318d35b3506fd25eb"
+git-tree-sha1 = "64a8b1e44235ef7fc3d2dd380e5d4f67cd12a3ab"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[ducc0.download]]
-    sha256 = "60921119ad47090228d86f5ea7fb40ef75d078a2a7e9211264226f92606d7b84"
-    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.0+0/ducc0.v0.27.0.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "5ab739d30a04269de332f430e83d3fa1fa9e8e2f9501eb28ad7a8f08cc669306"
+    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.9+0/ducc0.v0.27.9.aarch64-linux-gnu-cxx11.tar.gz"
 [[ducc0]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "da7f273d05264be4a8b1250690a7979b2b078736"
+git-tree-sha1 = "8c2638dbeda7b71fa986634c2a84fdb7cf9ae417"
 lazy = true
 libc = "musl"
 os = "linux"
 
     [[ducc0.download]]
-    sha256 = "e2a92bb7119ffa9e98fe6398f22749c1a385f6346a47b95e1403de52d0285095"
-    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.0+0/ducc0.v0.27.0.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "0e791722853d946a953db8a5bd4383ddb26d52724311b7c55ebc5ba3c72bcd27"
+    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.9+0/ducc0.v0.27.9.aarch64-linux-musl-cxx03.tar.gz"
 [[ducc0]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d73af2a7ef62a6abf4ce39423a15f376c6c08885"
+git-tree-sha1 = "f75dc359d581f83276c7a95e358597283d97a63d"
 lazy = true
 libc = "musl"
 os = "linux"
 
     [[ducc0.download]]
-    sha256 = "8017b47b1808d6725163dc2a379a6e29976e586a25337c9e8e8c6702df682de8"
-    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.0+0/ducc0.v0.27.0.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "e9f3ef6a25a1a389cf87d43641cbeb6dcce612e0007761f14da707d8f7e6a598"
+    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.9+0/ducc0.v0.27.9.aarch64-linux-musl-cxx11.tar.gz"
 [[ducc0]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "175ae64f77bda8c8ca9002ad175ac9e283846112"
+git-tree-sha1 = "c9c98809673c04c01891699e5c2e5ab5f05311b7"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[ducc0.download]]
-    sha256 = "50cf113ac42bed820c4100416b9ed2574d0ba2ab67db14b746970c2b0fa0d7a8"
-    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.0+0/ducc0.v0.27.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "6ef2f6cf602b7617d7277fdf618816d7d482713892b6bd2fc1215d764017fe7a"
+    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.9+0/ducc0.v0.27.9.armv6l-linux-gnueabihf-cxx03.tar.gz"
 [[ducc0]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "90bd8ae34d0e90e90154ec1546354ddba8a9b7fb"
+git-tree-sha1 = "1346e5ab6970dc6aabbd896bc59dcabd6331d725"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[ducc0.download]]
-    sha256 = "faac12ee160d10901c34d54f4634596ea73922b55ab3152efbd8bedf1d8ed8c1"
-    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.0+0/ducc0.v0.27.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "e4d360241909c353ff9baa60570df2058975cbcda9954acc5e42754dfe260feb"
+    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.9+0/ducc0.v0.27.9.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[ducc0]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "4f0ddb357c3ebe55cc75063acc3ff90e23affc65"
+git-tree-sha1 = "71922ccd7a59e7de726fa7693ed51b9b035cd7bd"
 lazy = true
 libc = "musl"
 os = "linux"
 
     [[ducc0.download]]
-    sha256 = "dbfad56f81bcef8791fa25d29bd317f8013ac85fc60d4ecd0aec98e5c2732b2a"
-    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.0+0/ducc0.v0.27.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "74b32eb7d4b2c9b75017b4862c4bcc05b3ad10e08bcba562e43fc965a2f5d65f"
+    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.9+0/ducc0.v0.27.9.armv6l-linux-musleabihf-cxx03.tar.gz"
 [[ducc0]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0a62af3e30ae1ca7d9c3154c734924b7a66240c0"
+git-tree-sha1 = "54cb87be93425cf2457eeee5ca2f4e7a7f47fa0d"
 lazy = true
 libc = "musl"
 os = "linux"
 
     [[ducc0.download]]
-    sha256 = "04d2f394750a8e8db655e3effa0e841193a5675e2f6e150603c81047ef802e17"
-    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.0+0/ducc0.v0.27.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "d3eb0a48e50ced9f7eab78137478c732d44974cd3726b6c7967170045cc20d4e"
+    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.9+0/ducc0.v0.27.9.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[ducc0]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "69f1ef3bcf35962a20e68c292580d0264a1f866e"
+git-tree-sha1 = "42d6348a056e97a63a40a367403ca4aaf1d507b6"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[ducc0.download]]
-    sha256 = "15a9e66221082d3e0aa2de4f5bf0d2da016942226123eb2a475174720a1d8b3c"
-    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.0+0/ducc0.v0.27.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "8b4e7e59313135e28dd33a29dff114a0ca213aa28bb880776b1baba9f36e0f51"
+    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.9+0/ducc0.v0.27.9.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[ducc0]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5069c1cd7f715a8b208e31053298e2b6b7ce60a2"
+git-tree-sha1 = "a2e22c6c89e6964a7b4e1d7dae7f848cfb6c8c1a"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[ducc0.download]]
-    sha256 = "504e275318d97e331e3b619ed43cae862ad6303f674a8c154c579be9b3ca9c4c"
-    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.0+0/ducc0.v0.27.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "e8602f697ea7d0623bc04130e5c2b43f70e968772a105acc7e186d5316a5a31d"
+    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.9+0/ducc0.v0.27.9.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[ducc0]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "28142306a4d59dff13c0e0225d4d01e06f87ba41"
+git-tree-sha1 = "6d8fac47f2c938788798e1a276a502597ee8dd65"
 lazy = true
 libc = "musl"
 os = "linux"
 
     [[ducc0.download]]
-    sha256 = "445d3d0c596458635616dafefcfa4c790c375e2c01f7fee9c25c7bf33f810ef8"
-    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.0+0/ducc0.v0.27.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "202524bdf09c94ba0eb234076407f14a88301b13867233a89e70d6b18a8f908b"
+    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.9+0/ducc0.v0.27.9.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[ducc0]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "537e3c704dfa3e6f1f41d7e6da91dee4a112263b"
+git-tree-sha1 = "251860d713cdaac28f64481b772244abb70bc5ce"
 lazy = true
 libc = "musl"
 os = "linux"
 
     [[ducc0.download]]
-    sha256 = "212d86b3fa3558698f0e00a0e8ef4161b37e55c3623af82c6e2f3a3143baf407"
-    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.0+0/ducc0.v0.27.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "383c1bfc36e235163300a92763ed90259b70c5204ab7288006d1e6cedacc7f3c"
+    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.9+0/ducc0.v0.27.9.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[ducc0]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "56e0f0cacb586dcc93bfb770ee53842c2b1466d0"
+git-tree-sha1 = "517f6cba0522d5b933b6750e8f7a831a8375c603"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[ducc0.download]]
-    sha256 = "c20d79495e4dc9c8bdfda118864849a655405c3143d9d784af4c2915849bfccd"
-    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.0+0/ducc0.v0.27.0.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "3819485a9dffa188041d30a4e5a26ad084181cf9e7a62cdd19924da6f5e7f397"
+    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.9+0/ducc0.v0.27.9.i686-linux-gnu-cxx03.tar.gz"
 [[ducc0]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c19e6cca938d0dd585a4083043dec9260d8cc305"
+git-tree-sha1 = "12224643373e0c8369921cda97fb072777d715dc"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[ducc0.download]]
-    sha256 = "291eaa48899cd31fb1288ddbf66b00bf83a364a6416080beada867247776000a"
-    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.0+0/ducc0.v0.27.0.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "36034db563638ad52e4909f47652b7016f905e7293141db0dc3ebefdaa9bda7c"
+    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.9+0/ducc0.v0.27.9.i686-linux-gnu-cxx11.tar.gz"
 [[ducc0]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e78aeeefa140e5ec2d563b3131b0669da7e3f2b0"
+git-tree-sha1 = "9ed42e4501cd716cd672a643b50fc1b67a97261d"
 lazy = true
 libc = "musl"
 os = "linux"
 
     [[ducc0.download]]
-    sha256 = "dff27e3890b34fcf526b7ac1bfc495fb2ea545e5e0b03b1259af974ae9afea82"
-    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.0+0/ducc0.v0.27.0.i686-linux-musl-cxx03.tar.gz"
+    sha256 = "a8a4ec6d4c87ad94225f73c37fd0d8df94b219331422372cb8bea120c3886101"
+    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.9+0/ducc0.v0.27.9.i686-linux-musl-cxx03.tar.gz"
 [[ducc0]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a63cb088297fd7849a9eff71fcf1b38538a3f9a5"
+git-tree-sha1 = "d8f88ca0eec6462539b0b7994ecbe30e2e3485b8"
 lazy = true
 libc = "musl"
 os = "linux"
 
     [[ducc0.download]]
-    sha256 = "31d8ce41ef8b8c485d34eeff85b7aa455f7c0d3257ce8cb5e1d3153efc282412"
-    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.0+0/ducc0.v0.27.0.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "a96bea413b5c5516b546424259304bb0541e6a3432bcce59365ab8c9e891efb9"
+    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.9+0/ducc0.v0.27.9.i686-linux-musl-cxx11.tar.gz"
 [[ducc0]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "0d01f8327eaf23032ba3e0111769dfd32b7a031f"
+git-tree-sha1 = "0d42b3c81e69ffe32d04d7299a55e651496e2b64"
 lazy = true
 os = "windows"
 
     [[ducc0.download]]
-    sha256 = "de5b6d6468e52e94a18fc4e33bfc10098bd615cce8d64e63ba384b482ac8fec0"
-    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.0+0/ducc0.v0.27.0.i686-w64-mingw32-cxx03.tar.gz"
+    sha256 = "87e1376b20618616f7321d955560f18ef744738d3ad83991978f2d93357bcfd6"
+    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.9+0/ducc0.v0.27.9.i686-w64-mingw32-cxx03.tar.gz"
 [[ducc0]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b6a2c6e8bdb9b736daf32095b39d2c2217825998"
+git-tree-sha1 = "91b284796f158508821a25db71b8f9dadf5d3146"
 lazy = true
 os = "windows"
 
     [[ducc0.download]]
-    sha256 = "f8a217d645a9c41926138a30103652d5d5ccd512da7b8bc65d40fbfeb9ad1d26"
-    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.0+0/ducc0.v0.27.0.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "21cdd40ec00f66d5232c1d745d7ac6153b3c8897b2f6fe034e6e58a969b9be03"
+    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.9+0/ducc0.v0.27.9.i686-w64-mingw32-cxx11.tar.gz"
 [[ducc0]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "cc7544c1853af71b219a8c92d17384e1bb521a52"
+git-tree-sha1 = "b5db8b911050cc5b0a543ec69140e034d13bb3e4"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[ducc0.download]]
-    sha256 = "c7c3b0dac8e4c0a43c1b587889c727635a12b0e009bc64caf8210921e8c55402"
-    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.0+0/ducc0.v0.27.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "c6ec04e39eb05be11d9df4d3904c78fccc9757232932d21bc4bc5eeeab985ae7"
+    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.9+0/ducc0.v0.27.9.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[ducc0]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "cc0721676ccba92189c05117dd61320074751cc0"
+git-tree-sha1 = "4ec2ce74e653cf38ca2971d84a8bf767b78eb94b"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[ducc0.download]]
-    sha256 = "daef0acdc82b389bcbed838bd2cd97df63515bac01ccdacbd6b5b219fb25038c"
-    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.0+0/ducc0.v0.27.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "59653d868659d681be9e5bf64636e5c0a0816103d9e499271ca5e20d8dd3369e"
+    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.9+0/ducc0.v0.27.9.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[ducc0]]
 arch = "x86_64"
-git-tree-sha1 = "bf7085ee4508841ebab640b1976f968ebfcca102"
+git-tree-sha1 = "627362530f3224e7b1b71131b8e592f7c42f9352"
 lazy = true
 march = "avx"
 os = "macos"
 
     [[ducc0.download]]
-    sha256 = "1d1ebcfb6a2cd6f8b02ea7eb10af4e7f0335bdaf0ec97812d015fa80cdac8a4f"
-    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.0+0/ducc0.v0.27.0.x86_64-apple-darwin-march+avx.tar.gz"
+    sha256 = "6b6016bb937cb77f7e6b009dd2f40a00786cafb09edc34fe2163cb42652626e9"
+    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.9+0/ducc0.v0.27.9.x86_64-apple-darwin-march+avx.tar.gz"
 [[ducc0]]
 arch = "x86_64"
-git-tree-sha1 = "310bd1f5d91ed6d826f04a97bf48b301d713a2ae"
+git-tree-sha1 = "77881c8ca8bd24eabfcd0e7872ad4cd3c46e93ff"
 lazy = true
 march = "avx2"
 os = "macos"
 
     [[ducc0.download]]
-    sha256 = "e3ed36af4594201ce7baff3cc43e44d9c74c7f894fa37444e3fe4c193c41e493"
-    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.0+0/ducc0.v0.27.0.x86_64-apple-darwin-march+avx2.tar.gz"
+    sha256 = "9db21e32dcfb8a759f6ee441a30d6b4a5415fa56404e32a47c5a1d3e6f852b90"
+    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.9+0/ducc0.v0.27.9.x86_64-apple-darwin-march+avx2.tar.gz"
 [[ducc0]]
 arch = "x86_64"
-git-tree-sha1 = "001b431a8e5eaba8366bbfc6a063682c4ae0bbe0"
+git-tree-sha1 = "5454e7a0b57db4b3e407d94dc1a4d6e25a39c98d"
 lazy = true
 march = "x86_64"
 os = "macos"
 
     [[ducc0.download]]
-    sha256 = "b406cad0d4e4642859070b55ed5919d80297eff1969869d65168d360b53502a4"
-    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.0+0/ducc0.v0.27.0.x86_64-apple-darwin-march+x86_64.tar.gz"
+    sha256 = "97bf9cc7f2563e15766a0e3121e8fbd6071faac7a87f30b6bf689389f363e901"
+    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.9+0/ducc0.v0.27.9.x86_64-apple-darwin-march+x86_64.tar.gz"
 [[ducc0]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "7552b42fb32cafceaf7b0b36363e51b4edfa3726"
+git-tree-sha1 = "b905161a810ea9dbf17e41315ddc9006d389999c"
 lazy = true
 libc = "glibc"
 march = "avx"
 os = "linux"
 
     [[ducc0.download]]
-    sha256 = "b3f674831fb52a4c62b99effa1cab9cd2f9babed2a6cc4f0ea9e977d19dc6da2"
-    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.0+0/ducc0.v0.27.0.x86_64-linux-gnu-cxx03-march+avx.tar.gz"
+    sha256 = "785612be0e193f0b4954ca13619564322d6bc79608965e2c54efaaa34619faba"
+    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.9+0/ducc0.v0.27.9.x86_64-linux-gnu-cxx03-march+avx.tar.gz"
 [[ducc0]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f073b161babdbf5c34312f47dd7a1136e472e45c"
+git-tree-sha1 = "ffda901cb1f9b2734a50123ec4fc97283cb41914"
 lazy = true
 libc = "glibc"
 march = "avx2"
 os = "linux"
 
     [[ducc0.download]]
-    sha256 = "3ef9e474bc6f72404c7192a688dcb51ba76291c18cdda432d18c74d9dd929efa"
-    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.0+0/ducc0.v0.27.0.x86_64-linux-gnu-cxx03-march+avx2.tar.gz"
+    sha256 = "922c162a11afd1f37bbd40de13b1384b1f2713943809ac9b6536269117acbac0"
+    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.9+0/ducc0.v0.27.9.x86_64-linux-gnu-cxx03-march+avx2.tar.gz"
 [[ducc0]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e46a158fe48e6c0b4995a9472709c2ec7b7293a7"
+git-tree-sha1 = "9634fdd7007be37a1e25f5a1888ab6583846027e"
 lazy = true
 libc = "glibc"
 march = "x86_64"
 os = "linux"
 
     [[ducc0.download]]
-    sha256 = "f4387401352ea640b3799bfa59074c1333317fa0d6e1ff47d8270b7897d8e55d"
-    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.0+0/ducc0.v0.27.0.x86_64-linux-gnu-cxx03-march+x86_64.tar.gz"
+    sha256 = "f15de37fa54912fd97ed996558a12824df63dea1d5f49393b01cbb7239e31616"
+    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.9+0/ducc0.v0.27.9.x86_64-linux-gnu-cxx03-march+x86_64.tar.gz"
 [[ducc0]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "69d1bc37ab69f6f3693dd7697451fa464d303df6"
+git-tree-sha1 = "4c7849e0dbf985ed3ebf1e9c0e6990c2cd30b7ec"
 lazy = true
 libc = "glibc"
 march = "avx"
 os = "linux"
 
     [[ducc0.download]]
-    sha256 = "e4a1e7fac4e9e355032cd92ee62f5cb767488caa4f56ffafe2ac14bda41a2c94"
-    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.0+0/ducc0.v0.27.0.x86_64-linux-gnu-cxx11-march+avx.tar.gz"
+    sha256 = "99570a3d61cf6ba35583f8c9c56f7dcc23e154d8a8f3a096809d73e97a145cad"
+    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.9+0/ducc0.v0.27.9.x86_64-linux-gnu-cxx11-march+avx.tar.gz"
 [[ducc0]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0ffa4574a03a146f5d4f10a8dd80ae356fbd603c"
+git-tree-sha1 = "1676f95cda6806e3aa031caf63cd7d33cf65d12d"
 lazy = true
 libc = "glibc"
 march = "avx2"
 os = "linux"
 
     [[ducc0.download]]
-    sha256 = "6789f5966978957fdb6cc70d1778e706ec638dd4ba5c3e94cbc18a036d1824b9"
-    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.0+0/ducc0.v0.27.0.x86_64-linux-gnu-cxx11-march+avx2.tar.gz"
+    sha256 = "b470c95e089c87f83c4ca34ca625809e74a5bbf0479b326aa7b81496465b7f66"
+    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.9+0/ducc0.v0.27.9.x86_64-linux-gnu-cxx11-march+avx2.tar.gz"
 [[ducc0]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d3d262d416976ea742d175d578e6af10fd286b82"
+git-tree-sha1 = "67951f88375808dc8689765db66bbfc8361a568a"
 lazy = true
 libc = "glibc"
 march = "x86_64"
 os = "linux"
 
     [[ducc0.download]]
-    sha256 = "c1bb782fe661e12d64faf391f54d81ae12f1d4c9f2aabab740c88b6aa088a9f8"
-    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.0+0/ducc0.v0.27.0.x86_64-linux-gnu-cxx11-march+x86_64.tar.gz"
+    sha256 = "92ffac4823188a7d530d1de27a0b32f3cb4279b4e1c1d68b05da6e7d80fcbae2"
+    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.9+0/ducc0.v0.27.9.x86_64-linux-gnu-cxx11-march+x86_64.tar.gz"
 [[ducc0]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e62138fe1301ad1ee046d1393ecdb64e3f396829"
+git-tree-sha1 = "f95a35c05b75f11a343cd3663fe61ee974a1c12e"
 lazy = true
 libc = "musl"
 march = "avx"
 os = "linux"
 
     [[ducc0.download]]
-    sha256 = "ba18b880883395cb1a00f6978f92df5540bfb7ba0879ba7bff3b7f7b58c46a05"
-    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.0+0/ducc0.v0.27.0.x86_64-linux-musl-cxx03-march+avx.tar.gz"
+    sha256 = "4ce2911702c17e055993519747dbe23eb3ad84a45835968b6e4e6a263fcdb4f8"
+    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.9+0/ducc0.v0.27.9.x86_64-linux-musl-cxx03-march+avx.tar.gz"
 [[ducc0]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "fd5e6bed5dd4a3770ff5ba8bd585325c1f5ae29d"
+git-tree-sha1 = "bbd709d995f082df2352c23534fef0c7670cfdea"
 lazy = true
 libc = "musl"
 march = "avx2"
 os = "linux"
 
     [[ducc0.download]]
-    sha256 = "ca698b5ffae28b10268ad57839591e281924689a622ecf0f78426b8427cd71b7"
-    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.0+0/ducc0.v0.27.0.x86_64-linux-musl-cxx03-march+avx2.tar.gz"
+    sha256 = "602537e3d900625801fd950ed1d6c9a56810e5e75d3f16b1edfad055e1be5c88"
+    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.9+0/ducc0.v0.27.9.x86_64-linux-musl-cxx03-march+avx2.tar.gz"
 [[ducc0]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e7a8978a4b2df44a3000cbedf90d3387a5a42916"
+git-tree-sha1 = "2a5cfce849588e05720f747ad310d2fbcfc5834d"
 lazy = true
 libc = "musl"
 march = "x86_64"
 os = "linux"
 
     [[ducc0.download]]
-    sha256 = "bfcfee775ba32fb01606f1f7c8affde1329c53e37aecb65a0aeee395bc814f07"
-    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.0+0/ducc0.v0.27.0.x86_64-linux-musl-cxx03-march+x86_64.tar.gz"
+    sha256 = "96595dc67e0a187280c35d1ff6f73515b2cfb1519ba89825e5d36727c2e490a7"
+    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.9+0/ducc0.v0.27.9.x86_64-linux-musl-cxx03-march+x86_64.tar.gz"
 [[ducc0]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "fdc19e1c122b57adc706d85becadcc8d564cfc5b"
+git-tree-sha1 = "a0f157dbda123586f804f6968d7e9598b59cd4f7"
 lazy = true
 libc = "musl"
 march = "avx"
 os = "linux"
 
     [[ducc0.download]]
-    sha256 = "8626cfeac2428645d222f9b485d17e76ee89993a78484b090724b763092039a3"
-    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.0+0/ducc0.v0.27.0.x86_64-linux-musl-cxx11-march+avx.tar.gz"
+    sha256 = "7d8d90bdf4b8e23d6190a7882b3ba66c9f56c979eac3e683f87419c45459bfa8"
+    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.9+0/ducc0.v0.27.9.x86_64-linux-musl-cxx11-march+avx.tar.gz"
 [[ducc0]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "60924e78ebc4d059504a7d5c1a717e09c5ad81c9"
+git-tree-sha1 = "fe4c9fbde8195e4bab964aef6ddcb920c594332f"
 lazy = true
 libc = "musl"
 march = "avx2"
 os = "linux"
 
     [[ducc0.download]]
-    sha256 = "86ff6c764e15303fdb28d0dbd90c0acf62d45995c3eb0c7475b54f43e6ebf6d2"
-    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.0+0/ducc0.v0.27.0.x86_64-linux-musl-cxx11-march+avx2.tar.gz"
+    sha256 = "426aded53ee5639fb00fad128d7d4b0508e17ed9686a88dd5d4e00a0f77016d8"
+    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.9+0/ducc0.v0.27.9.x86_64-linux-musl-cxx11-march+avx2.tar.gz"
 [[ducc0]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a9358b74ce99731c17e866f72675d71e5b618c4d"
+git-tree-sha1 = "8c199819702d3b82b4b99f3d5cb7b8061a3c3dfc"
 lazy = true
 libc = "musl"
 march = "x86_64"
 os = "linux"
 
     [[ducc0.download]]
-    sha256 = "1355c139e51a9141a623255c928246e4caee4626c6aac5483d746148593ed073"
-    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.0+0/ducc0.v0.27.0.x86_64-linux-musl-cxx11-march+x86_64.tar.gz"
+    sha256 = "d315aa692dd40fda44d8cbecd68b9a1aafcb269e83075e9acec14cb2b9add543"
+    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.9+0/ducc0.v0.27.9.x86_64-linux-musl-cxx11-march+x86_64.tar.gz"
 [[ducc0]]
 arch = "x86_64"
-git-tree-sha1 = "a9798237eb7a9244fd781a763e0a68f2206a1124"
+git-tree-sha1 = "38ee014cfffdfc73be3c8f25b0b5d210b70562e4"
 lazy = true
 march = "avx"
 os = "freebsd"
 
     [[ducc0.download]]
-    sha256 = "5703a17b2124230a129f20b780fa05a5d0cafca3110f4016545e3d1225f6f536"
-    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.0+0/ducc0.v0.27.0.x86_64-unknown-freebsd-march+avx.tar.gz"
+    sha256 = "80b6388af2418de3c44724f52cdc03dc764a1e8b96602abeca859e72da75e912"
+    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.9+0/ducc0.v0.27.9.x86_64-unknown-freebsd-march+avx.tar.gz"
 [[ducc0]]
 arch = "x86_64"
-git-tree-sha1 = "40596ea4162b9f3ce77267d5c11fb3c8b9b8b097"
+git-tree-sha1 = "01473c4c36746929bf89e0fb48902e3fc9097265"
 lazy = true
 march = "avx2"
 os = "freebsd"
 
     [[ducc0.download]]
-    sha256 = "46e111d6462610b25f3629bdc84df71e66fe71257729b23c36ecdd3393331dc7"
-    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.0+0/ducc0.v0.27.0.x86_64-unknown-freebsd-march+avx2.tar.gz"
+    sha256 = "9b814d861cd64f3f74dae9f85b4c6098fcaabbbdb1cb7eff1f9753871caff704"
+    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.9+0/ducc0.v0.27.9.x86_64-unknown-freebsd-march+avx2.tar.gz"
 [[ducc0]]
 arch = "x86_64"
-git-tree-sha1 = "62f3c58314d2044c6954a081c6ca7960bb8a2d1f"
+git-tree-sha1 = "03cd13dfdd991be1c73eb1cb3cecc8eb7fdb986e"
 lazy = true
 march = "x86_64"
 os = "freebsd"
 
     [[ducc0.download]]
-    sha256 = "9f878831f2c785776a4f7a6d4e2ff4da8622381c5266fba45ef7f5286a2f3d40"
-    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.0+0/ducc0.v0.27.0.x86_64-unknown-freebsd-march+x86_64.tar.gz"
+    sha256 = "490abd1ea79f1e1bec66e47b4aa0e705bfb1bb2400bc507aa905a7584586ffc0"
+    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.9+0/ducc0.v0.27.9.x86_64-unknown-freebsd-march+x86_64.tar.gz"
 [[ducc0]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "3f10e2dd2b74232ed6beb951e5a764f388a626df"
+git-tree-sha1 = "af16f5d90a2bd00a2c997391bad8c170bac3ddc0"
 lazy = true
 march = "avx"
 os = "windows"
 
     [[ducc0.download]]
-    sha256 = "03797b82c9ae1eee9f2c079b5264f177ea51016f0ec9d9aa61384291f5252bf2"
-    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.0+0/ducc0.v0.27.0.x86_64-w64-mingw32-cxx03-march+avx.tar.gz"
+    sha256 = "f4656f4e24139a4dc7c22b69784e1d844dc67e26a72fb5f3fb25fae6f6ce64ac"
+    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.9+0/ducc0.v0.27.9.x86_64-w64-mingw32-cxx03-march+avx.tar.gz"
 [[ducc0]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "dd9f7ec02cc0e4152309e7eaad08d67ba697799c"
+git-tree-sha1 = "919d903deb8e41fee3405131062c1ba35feaf673"
 lazy = true
 march = "avx2"
 os = "windows"
 
     [[ducc0.download]]
-    sha256 = "df15153d40bdadf8cb87f9784f322b0a0ad6e059e7f5ad3b8d5254a7cde904e0"
-    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.0+0/ducc0.v0.27.0.x86_64-w64-mingw32-cxx03-march+avx2.tar.gz"
+    sha256 = "8c499e3f57cbf31bfffb72ffdf4bb72a78da99cee89db68300934d9807f9d5a8"
+    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.9+0/ducc0.v0.27.9.x86_64-w64-mingw32-cxx03-march+avx2.tar.gz"
 [[ducc0]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "2c098ec05510f9b8578ec8a9aa1e30141844d5e6"
+git-tree-sha1 = "9055f3d88f6904507bf594933a43fc16726e3f86"
 lazy = true
 march = "x86_64"
 os = "windows"
 
     [[ducc0.download]]
-    sha256 = "9549215a9d41b16cbdb5561b7056a03e088206131b89dd70edeff95f899ae83e"
-    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.0+0/ducc0.v0.27.0.x86_64-w64-mingw32-cxx03-march+x86_64.tar.gz"
+    sha256 = "f55701581293d8c954151f27a28b80d406a2087ac13542d16630b2156ac8e3c5"
+    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.9+0/ducc0.v0.27.9.x86_64-w64-mingw32-cxx03-march+x86_64.tar.gz"
 [[ducc0]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "234447e1105f644e647edbc4124b0376251aa3e7"
+git-tree-sha1 = "8cb5cc3c880c824faae319815bb9346f932ef129"
 lazy = true
 march = "avx"
 os = "windows"
 
     [[ducc0.download]]
-    sha256 = "945e20eea0e3fe172f479a05a4051287d90b62f4342e8acb8f62fc3d7c6e03cb"
-    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.0+0/ducc0.v0.27.0.x86_64-w64-mingw32-cxx11-march+avx.tar.gz"
+    sha256 = "47efa124aa4065f5020635ae26813ec197808fe093863cc148b78fec1136cf1d"
+    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.9+0/ducc0.v0.27.9.x86_64-w64-mingw32-cxx11-march+avx.tar.gz"
 [[ducc0]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7821b8859da01a75db0478151feb69ee2364aab9"
+git-tree-sha1 = "709dcef0abc50f0b84eba1fd35a2ba8f2c6bc635"
 lazy = true
 march = "avx2"
 os = "windows"
 
     [[ducc0.download]]
-    sha256 = "253bbea31e8c6f4f4d4fd2feaffdc600ff5bc34f48aa70e03118861f0d66e8cf"
-    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.0+0/ducc0.v0.27.0.x86_64-w64-mingw32-cxx11-march+avx2.tar.gz"
+    sha256 = "08689172e0071e3fe3c600877f3129794153f317d1c03539f1884d7ec24cdac4"
+    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.9+0/ducc0.v0.27.9.x86_64-w64-mingw32-cxx11-march+avx2.tar.gz"
 [[ducc0]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "bee6b5e756412af4ec0a6b930f0f544f2333bb7e"
+git-tree-sha1 = "727255a87796e18763da99d170637e1951eabb2c"
 lazy = true
 march = "x86_64"
 os = "windows"
 
     [[ducc0.download]]
-    sha256 = "014194a4fffdbf8a72e057fb13978df67530483a61d67fcfb7bc134c66bc4c4c"
-    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.0+0/ducc0.v0.27.0.x86_64-w64-mingw32-cxx11-march+x86_64.tar.gz"
+    sha256 = "314e1e606b465f630b0ca92d4f512c75bf5f9525d3784f2c3cdf4249318add10"
+    url = "https://github.com/JuliaBinaryWrappers/ducc0_jll.jl/releases/download/ducc0-v0.27.9+0/ducc0.v0.27.9.x86_64-w64-mingw32-cxx11-march+x86_64.tar.gz"
